@@ -22,7 +22,7 @@
                     <li><a href="#">About me</a></li>
                     <li><a href="#">Classes</a></li>
                     <li><a href="#">Contacts</a></li>
-                    <li><a href="#">Where to go now</a></li>
+                    <li><a href="#">Way to go now</a></li>
                 </ul>
             </div>
         </nav>
