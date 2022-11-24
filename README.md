@@ -22,7 +22,8 @@
                     <li><a href="#">About me</a></li>
                     <li><a href="#">Classes</a></li>
                     <li><a href="#">Contacts</a></li>
-                    <li><a href="#">Prices</a></li>  
+                    <li><a href="#">Prices</a></li>
+                    <li><a href="#">Where to go</a></li>  
 
                 </ul>
             </div>
